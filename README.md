@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexMedyantsev
-- 👀 I’m interested in Frontend Developing
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning more about in depth usage of React
 - 📫 How to reach me - https://t.me/AlexMedyantsev
 
