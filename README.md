@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexMedyantsev
 - 👀 I’m interested in Frontend and Mobile Development
-- 🌱 I’m currently developing mobile apps with React Native
+- 🌱 I’m currently developing mobile apps with React Native and writing Frontend applications
 - 📫 How to reach me - https://t.me/AlexMedyantsev
 
 <!---
